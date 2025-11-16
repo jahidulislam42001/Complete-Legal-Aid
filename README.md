@@ -5,10 +5,6 @@ https://www.figma.com/proto/DZXlEZmMT9u4lDf1Yuia0h/Complete-Legal-Aid-Web-Versio
 Prototype link (Mobile app):
 https://www.figma.com/proto/v9evCtAgGWIHeEeUMdZHqX/Compete-Legal-Aid---Phone-version-?t=4Gp8A5uSxbtAdZnl-1
 
-Here’s a cleaner, more natural, GitHub-friendly version that *doesn’t* sound like it came from an AI tool:
-
----
-
 ### **Complete Legal Aid — Project Description**
 
 
